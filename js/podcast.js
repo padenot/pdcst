@@ -116,17 +116,21 @@ function FeedList() {
 }
 
 FeedList.prototype.init = function() {
-  // get shit from indexDB or something.
+  // get shit from indexedDB or something.
+}
+
+FeedList.prototype.persist = function() {
+
 }
 
 FeedList.prototype.add = function(url) {
-
+  this.list.push(url);
 }
 
 FeedList.prototype.refresh = function() {
-  // check wifi time and stuff
-  // segment the work so we don't knock the network down
-  // or not
+  for(var i = 0; i < this.list.length; i++) {
+    this.list[i].fetch();
+  }
 }
 
 
@@ -205,11 +209,21 @@ EpisodeView.prototype.display = function (node) {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
+  window.feed_list = new FeedList();
   var f = new Feed("http://localhost:1234/bleep.xml");
   f.onEndParsed = function(episodes) {
     var v = new FeedView(episodes);
     $(".body").appendChild(e("div", {class : "feed-view"}));
     v.display($(".feed-view"));
   }
-  f.fetch();
+  feed_list.add(f);
 });
+
+$("#btnRefresh").addEventListener("click", function() {
+  window.feed_list.refresh();
+});
+
+$("#btnAdd").addEventListener("click", function() {
+  var rv = prompt("URL of the podcast, yo!", "http://");
+} );
+

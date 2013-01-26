@@ -42,6 +42,18 @@ header #btnAdd {
   margin: 0;
 }
 
+header #btnRefresh {
+  background: url(images/update.png) no-repeat left center;
+  width: 3rem;
+  border: none;
+  height: 100%;
+  margin: 0;
+}
+
+header #btnAdd:active {
+  background-color: #e66000;
+}
+
 header #btnMain:active {
   background-color: #e66000;
 }
