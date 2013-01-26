@@ -115,22 +115,22 @@ function FeedList() {
   this.list = [];
 }
 
-FeedList.prototype.init() {
+FeedList.prototype.init = function() {
   // get shit from indexDB or something.
 }
 
-FeedList.prototype.add(url) {
+FeedList.prototype.add = function(url) {
 
 }
 
-FeedList.prototype.refresh() {
+FeedList.prototype.refresh = function() {
   // check wifi time and stuff
   // segment the work so we don't knock the network down
   // or not
 }
 
 
-FeedList.prototype.import(opml) {
+FeedList.prototype.import = function(opml) {
   // probably not v1, but well.
 }
 
@@ -144,7 +144,7 @@ Feed.prototype.fetch = function() {
   XHR(this.url, "GET", null, function(data) {
     _this.parse(data);
   }, function(e) {
-    console.log(e.text);
+    console.log(e);
   }, function() {
     console.log("Progress.");
   }, function() {
@@ -205,7 +205,7 @@ EpisodeView.prototype.display = function (node) {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
-  var f = new Feed("http://localhost/bleep.xml");
+  var f = new Feed("http://localhost:1234/bleep.xml");
   f.onEndParsed = function(episodes) {
     var v = new FeedView(episodes);
     $(".body").appendChild(e("div", {class : "feed-view"}));

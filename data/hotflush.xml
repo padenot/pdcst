@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="atom-to-html.xsl"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Hotflush Podcast</title>
+<generator uri="http://tt-rss.org/">Tiny Tiny RSS/1.5.10</generator>
+<updated>2009-07-01T14:00:00+00:00</updated>
+<id>http://rss.paul.cx//public.php?op=rss&amp;id=-2&amp;key=fc9d97eef131293771e3fbbc1278bbda21387303</id>
+<link href="http://rss.paul.cx//public.php?op=rss&amp;id=-2&amp;key=fc9d97eef131293771e3fbbc1278bbda21387303" rel="self"/>
+
+<link href="http://rss.paul.cx/" rel="alternate"/>
+
+<entry>
+	<id>http://www.hotflushrecordings.com/podcast/hotflushpodcast_18_locked_groove.mp3</id>
+	<link href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_18_locked_groove.mp3" rel="alternate" type="text/html"/>
+	<title>Hotflush Podcast 18 (Locked Groove)</title>
+	<summary type="html"><![CDATA[Hotflush Podcast 18 (Locked Groove). www.hotflushrecordings.com www.facebook.com/lockedgroove/]]></summary>
+	<content type="html"><![CDATA[<body><p>Hotflush Podcast 18 (Locked Groove). www.hotflushrecordings.com www.facebook.com/lockedgroove/</p></body>]]></content>
+	<updated>2012-01-19T13:00:00+00:00</updated>
+	<author><name></name></author>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="88092032"
+		href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_18_locked_groove.mp3"/>
+
+</entry>
+
+<entry>
+	<id>http://www.hotflushrecordings.com/podcast/hotflushpodcast_17_arkist.mp3</id>
+	<link href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_17_arkist.mp3" rel="alternate" type="text/html"/>
+	<title>Hotflush Podcast 17 (Arkist)</title>
+	<summary type="html"><![CDATA[Hotflush Podcast 17 (Arkist). www.hotflushrecordings.com http://www.facebook.com/pages/Arkist/135624...]]></summary>
+	<content type="html"><![CDATA[<body><p></p><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta><p>Hotflush Podcast 17 (Arkist). www.hotflushrecordings.com <a target="_blank" href="http://www.facebook.com/pages/Arkist/135624509800440">http://www.facebook.com/pages/Arkist/135624509800440</a></p></body>]]></content>
+	<updated>2011-09-23T16:00:00+00:00</updated>
+	<author><name></name></author>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="115091438"
+		href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_17_arkist.mp3"/>
+
+</entry>
+
+<entry>
+	<id>http://www.hotflushrecordings.com/podcast/hotflushpodcast_16_dave_q.mp3</id>
+	<link href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_16_dave_q.mp3" rel="alternate" type="text/html"/>
+	<title>Hotflush Podcast 16 (Dave Q)</title>
+	<summary type="html"><![CDATA[Hotflush Podcast 16 (Dave Q). www.hotflushrecordings.com http://www.twitter.com/twisupbass]]></summary>
+	<content type="html"><![CDATA[<body><p></p><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta><p>Hotflush Podcast 16 (Dave Q). www.hotflushrecordings.com <a target="_blank" href="http://www.twitter.com/twisupbass">http://www.twitter.com/twisupbass</a></p></body>]]></content>
+	<updated>2011-07-20T16:00:00+00:00</updated>
+	<author><name></name></author>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="56658157"
+		href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_16_dave_q.mp3"/>
+
+</entry>
+
+<entry>
+	<id>http://www.hotflushrecordings.com/podcast/hotflushpodcast_15_braille.mp3</id>
+	<link href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_15_braille.mp3" rel="alternate" type="text/html"/>
+	<title>Hotflush Podcast 15 (Braille)</title>
+	<summary type="html"><![CDATA[Hotflush Podcast 15 (Braille). www.hotflushrecordings.com http://www.facebook.com/braillesounds]]></summary>
+	<content type="html"><![CDATA[<body><p></p><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta><p>Hotflush Podcast 15 (Braille). www.hotflushrecordings.com <a target="_blank" href="http://www.facebook.com/braillesounds">http://www.facebook.com/braillesounds</a></p></body>]]></content>
+	<updated>2011-05-25T16:00:00+00:00</updated>
+	<author><name></name></author>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="85540540"
+		href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_15_braille.mp3"/>
+
+</entry>
+
+<entry>
+	<id>http://www.hotflushrecordings.com/podcast/hotflushpodcast_14_roko.mp3</id>
+	<link href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_14_roko.mp3" rel="alternate" type="text/html"/>
+	<title>Hotflush Podcast 14 (ROKO)</title>
+	<summary type="html"><![CDATA[Hotflush Podcast 14 (ROKO). www.hotflushrecordings.com http://www.facebook.com/ROKOdj]]></summary>
+	<content type="html"><![CDATA[<body><p></p><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta><p>Hotflush Podcast 14 (ROKO). www.hotflushrecordings.com <a target="_blank" href="http://www.facebook.com/ROKOdj">http://www.facebook.com/ROKOdj</a></p></body>]]></content>
+	<updated>2011-04-12T16:00:00+00:00</updated>
+	<author><name></name></author>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="98402365"
+		href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_14_roko.mp3"/>
+
+</entry>
+
+<entry>
+	<id>http://www.hotflushrecordings.com/podcast/hotflushpodcast_13_twisted.mp3</id>
+	<link href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_13_twisted.mp3" rel="alternate" type="text/html"/>
+	<title>Hotflush Podcast 13 (Twisted)</title>
+	<summary type="html"><![CDATA[Hotflush Podcast 13 (Twisted). www.hotflushrecordings.com http://www.myspace.com/twistedduttydubz]]></summary>
+	<content type="html"><![CDATA[<body><p></p><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta><p>Hotflush Podcast 13 (Twisted). www.hotflushrecordings.com <a target="_blank" href="http://www.myspace.com/twistedduttydubz">http://www.myspace.com/twistedduttydubz</a></p></body>]]></content>
+	<updated>2011-03-28T16:00:00+00:00</updated>
+	<author><name></name></author>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="100082137"
+		href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_13_twisted.mp3"/>
+
+</entry>
+
+<entry>
+	<id>http://www.hotflushrecordings.com/podcast/hotflushpodcast_12_nihal_ramchandani.mp3</id>
+	<link href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_12_nihal_ramchandani.mp3" rel="alternate" type="text/html"/>
+	<title>Hotflush Podcast 12 (Nihal Ramchandani)</title>
+	<summary type="html"><![CDATA[Hotflush Podcast 12 (Nihal Ramchandani). www.hotflushrecordings.com http://www.facebook.com/nihal.ra...]]></summary>
+	<content type="html"><![CDATA[<body><p></p><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta><p>Hotflush Podcast 12 (Nihal Ramchandani). www.hotflushrecordings.com <a target="_blank" href="http://www.facebook.com/nihal.ramchandani">http://www.facebook.com/nihal.ramchandani</a></p></body>]]></content>
+	<updated>2011-01-07T16:00:00+00:00</updated>
+	<author><name></name></author>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="96936238"
+		href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_12_nihal_ramchandani.mp3"/>
+
+</entry>
+
+<entry>
+	<id>http://www.hotflushrecordings.com/podcast/hotflushpodcast_11_xi.mp3</id>
+	<link href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_11_xi.mp3" rel="alternate" type="text/html"/>
+	<title>Hotflush Podcast 11 (XI)</title>
+	<summary type="html"><![CDATA[Hotflush Podcast 11 (XI). www.hotflushrecordings.com www.myspace.com/xidubs]]></summary>
+	<content type="html"><![CDATA[<body><p>Hotflush Podcast 11 (XI). www.hotflushrecordings.com www.myspace.com/xidubs</p></body>]]></content>
+	<updated>2010-11-01T15:45:00+00:00</updated>
+	<author><name></name></author>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="56221974"
+		href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_11_xi.mp3"/>
+
+</entry>
+
+<entry>
+	<id>http://www.hotflushrecordings.com/podcast/hotflushpodcast_10_aqf.mp3</id>
+	<link href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_10_aqf.mp3" rel="alternate" type="text/html"/>
+	<title>Hotflush Podcast 10 (AQF)</title>
+	<summary type="html"><![CDATA[Hotflush Podcast 10 (AQF). www.hotflushrecordings.com www.myspace.com/aqfunctional]]></summary>
+	<content type="html"><![CDATA[<body><p>Hotflush Podcast 10 (AQF). www.hotflushrecordings.com www.myspace.com/aqfunctional</p></body>]]></content>
+	<updated>2010-08-30T15:00:00+00:00</updated>
+	<author><name></name></author>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="59689677"
+		href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_10_aqf.mp3"/>
+
+</entry>
+
+<entry>
+	<id>http://www.hotflushrecordings.com/podcast/hotflushpodcast_09_shortstuff.mp3</id>
+	<link href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_09_shortstuff.mp3" rel="alternate" type="text/html"/>
+	<title>Hotflush Podcast 09 (Shortstuff)</title>
+	<summary type="html"><![CDATA[Hotflush Podcast 09 (Shortstuff). www.hotflushrecordings.com www.myspace.com/djshortstuff]]></summary>
+	<content type="html"><![CDATA[<body><p>Hotflush Podcast 09 (Shortstuff). www.hotflushrecordings.com www.myspace.com/djshortstuff</p></body>]]></content>
+	<updated>2010-06-03T15:00:00+00:00</updated>
+	<author><name></name></author>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="61032621"
+		href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_09_shortstuff.mp3"/>
+
+</entry>
+
+<entry>
+	<id>http://www.hotflushrecordings.com/podcast/hotflushpodcast_08_clouds.mp3</id>
+	<link href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_08_clouds.mp3" rel="alternate" type="text/html"/>
+	<title>Hotflush Podcast 08 (Clouds)</title>
+	<summary type="html"><![CDATA[Hotflush Podcast 08 (Clouds). www.hotflushrecordings.com www.myspace.com/cloudsaremoving]]></summary>
+	<content type="html"><![CDATA[<body><p>Hotflush Podcast 08 (Clouds). www.hotflushrecordings.com www.myspace.com/cloudsaremoving</p></body>]]></content>
+	<updated>2010-05-03T16:30:00+00:00</updated>
+	<author><name></name></author>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="82099005"
+		href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_08_clouds.mp3"/>
+
+</entry>
+
+<entry>
+	<id>http://www.hotflushrecordings.com/podcast/hotflushpodcast_07_october.mp3</id>
+	<link href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_07_october.mp3" rel="alternate" type="text/html"/>
+	<title>Hotflush Podcast 07 (October - Influences)</title>
+	<summary type="html"><![CDATA[Hotflush Podcast 07 (October - Influences). www.hotflushrecordings.com www.myspace.com/djoctober]]></summary>
+	<content type="html"><![CDATA[<body><p>Hotflush Podcast 07 (October - Influences). www.hotflushrecordings.com www.myspace.com/djoctober</p></body>]]></content>
+	<updated>2010-02-09T14:00:00+00:00</updated>
+	<author><name></name></author>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="148966082"
+		href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_07_october.mp3"/>
+
+</entry>
+
+<entry>
+	<id>http://www.hotflushrecordings.com/podcast/hotflushpodcast_06_lexxus.mp3</id>
+	<link href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_06_lexxus.mp3" rel="alternate" type="text/html"/>
+	<title>Hotflush Podcast 06 (Tommy Lexxus)</title>
+	<summary type="html"><![CDATA[Hotflush Podcast 06 (Tommy Lexxus). www.hotflushrecordings.com www.myspace.com/lexxus]]></summary>
+	<content type="html"><![CDATA[<body><p>Hotflush Podcast 06 (Tommy Lexxus). www.hotflushrecordings.com www.myspace.com/lexxus</p></body>]]></content>
+	<updated>2009-12-21T14:00:00+00:00</updated>
+	<author><name></name></author>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="168270356"
+		href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_06_lexxus.mp3"/>
+
+</entry>
+
+<entry>
+	<id>http://www.hotflushrecordings.com/podcast/hotflushpodcast_05_juswan.mp3</id>
+	<link href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_05_juswan.mp3" rel="alternate" type="text/html"/>
+	<title>Hotflush Podcast 05 (Jus Wan)</title>
+	<summary type="html"><![CDATA[Hotflush Podcast 05 (Jus Wan). www.hotflushrecordings.com www.myspace.com/juswan]]></summary>
+	<content type="html"><![CDATA[<body><p>Hotflush Podcast 05 (Jus Wan). www.hotflushrecordings.com www.myspace.com/juswan</p></body>]]></content>
+	<updated>2009-11-06T14:00:00+00:00</updated>
+	<author><name></name></author>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="91229425"
+		href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_05_juswan.mp3"/>
+
+</entry>
+
+<entry>
+	<id>http://www.hotflushrecordings.com/podcast/hotflushpodcast_04_skipple.mp3</id>
+	<link href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_04_skipple.mp3" rel="alternate" type="text/html"/>
+	<title>Hotflush Podcast 04 (Skipple)</title>
+	<summary type="html"><![CDATA[Hotflush Podcast 04 (Skipple). www.hotflushrecordings.com www.myspace.com/skippledub]]></summary>
+	<content type="html"><![CDATA[<body><p>Hotflush Podcast 04 (Skipple). www.hotflushrecordings.com www.myspace.com/skippledub</p></body>]]></content>
+	<updated>2009-10-06T14:00:00+00:00</updated>
+	<author><name></name></author>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="60971297"
+		href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_04_skipple.mp3"/>
+
+</entry>
+
+<entry>
+	<id>http://www.hotflushrecordings.com/podcast/hotflushpodcast_03_scuba.mp3</id>
+	<link href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_03_scuba.mp3" rel="alternate" type="text/html"/>
+	<title>Hotflush Podcast 03 (Scuba)</title>
+	<summary type="html"><![CDATA[Hotflush Podcast 03 (Scuba). www.hotflushrecordings.com www.myspace.com/paulhotflush]]></summary>
+	<content type="html"><![CDATA[<body><p>Hotflush Podcast 03 (Scuba). www.hotflushrecordings.com www.myspace.com/paulhotflush</p></body>]]></content>
+	<updated>2009-09-01T14:00:00+00:00</updated>
+	<author><name></name></author>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="134470718"
+		href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_03_scuba.mp3"/>
+
+</entry>
+
+<entry>
+	<id>http://www.hotflushrecordings.com/podcast/hotflushpodcast_02_sigha.mp3</id>
+	<link href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_02_sigha.mp3" rel="alternate" type="text/html"/>
+	<title>Hotflush Podcast 02 (Sigha)</title>
+	<summary type="html"><![CDATA[Hotflush Podcast 02 (Sigha). www.hotflushrecordings.com www.myspace.com/sigha]]></summary>
+	<content type="html"><![CDATA[<body><p>Hotflush Podcast 02 (Sigha). www.hotflushrecordings.com www.myspace.com/sigha</p></body>]]></content>
+	<updated>2009-08-07T14:00:00+00:00</updated>
+	<author><name></name></author>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="85264065"
+		href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_02_sigha.mp3"/>
+
+</entry>
+
+<entry>
+	<id>http://www.hotflushrecordings.com/podcast/hotflushpodcast_01_incyde.mp3</id>
+	<link href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_01_incyde.mp3" rel="alternate" type="text/html"/>
+	<title>Hotflush Podcast 01 (Incyde)</title>
+	<summary type="html"><![CDATA[Hotflush Podcast 01 (Incyde). www.hotflushrecordings.com www.myspace.com/incyde]]></summary>
+	<content type="html"><![CDATA[<body><p>Hotflush Podcast 01 (Incyde). www.hotflushrecordings.com www.myspace.com/incyde</p></body>]]></content>
+	<updated>2009-07-01T14:00:00+00:00</updated>
+	<author><name></name></author>
+
+
+	<link rel="enclosure" 
+		type="audio/mpeg" 
+		length="92702445"
+		href="http://www.hotflushrecordings.com/podcast/hotflushpodcast_01_incyde.mp3"/>
+
+</entry>
+
+
+</feed>
+<!-- vim:ft=xml
+	  -->
