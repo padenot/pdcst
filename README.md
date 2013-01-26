@@ -22,7 +22,7 @@ Because vowels are so 2011, yo.
 ```
 
 Install <https://addons.mozilla.org/en-US/firefox/addon/forcecors/> in your
-Firefox so it can do cross-origin stuff, to test in the browser. Open the add-on
+Firefox so it can do cross-origin stuff, to test in the browser. Open the add-on bar
 and click the CORS button on the right side.
 
 ```
